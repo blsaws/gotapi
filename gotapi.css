@@ -332,3 +332,89 @@ body.dfnEnabled dfn { cursor: pointer; }
 .dfnPanel :link, .dfnPanel :visited { color: black; }
 .dfnPanel p { font-weight: bolder; }
 .dfnPanel li { list-style-position: inside; }
+
+/* OMA Extensions */
+
+table.oma1 {
+  width: 80%;
+  border-collapse: collapse;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.oma1 caption {
+  caption-side: top;
+}
+table.oma1 tr:nth-child(odd) {color: #000; background: #f0f6ff}
+table.oma1 tr:nth-child(even) {color: #000; background: #FFF}
+table.oma1 th {
+  text-align: left;
+  vertical-align: bottom;
+  background: #005a9c;
+  color: white;
+  border-bottom: 2px solid #005a9c;
+  white-space: nowrap;
+}
+table.oma1 td {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  vertical-align: top;
+}
+table.oma1 th, table.oma1 td {
+  padding: 0.25em 0.75em;
+}
+table.oma1 td.table-note {
+  background: none;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  font-size: 90%;
+}
+
+table.oma2 {
+  width: 80%;
+  border-collapse: collapse;
+  border-top: 1px solid #005a9c;
+  border-bottom: 1px solid #005a9c;
+  border-right: 1px solid #005a9c;
+  border-left: 1px solid #005a9c;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.oma2 caption {
+  caption-side: top;
+}
+table.oma2 tr:nth-child(odd) {color: #000; background: #f0f6ff}
+table.oma2 tr:nth-child(even) {color: #000; background: #FFF}
+table.oma2 th {
+  text-align: left;
+  vertical-align: bottom;
+  background: #005a9c;
+  color: white;
+  border-bottom: 2px solid #005a9c;
+  white-space: nowrap;
+}
+table.oma2 td {
+  /*border-top: 1px solid #a2c4e6;
+  border-bottom: 1px solid #a2c4e6;*/
+  vertical-align: top;
+}
+table.oma2 th, table.oma2 td {
+  padding: 0.25em 0.75em;
+}
+table.oma2 td.table-note {
+  background: none;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  font-size: 90%;
+}
