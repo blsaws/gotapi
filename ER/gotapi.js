@@ -57,6 +57,12 @@ var respecConfig = {
    wgPatentURI:   ["https://www.openmobilealliance.org"],
 
    localBiblio:  {
+		"OMADICT": {
+		title: "Dictionary for OMA Specifications",
+		publilsher: "Open Mobile Alliance™",
+		href: "http://www.openmobilealliance.org/"
+		},
+		{
 		"SCRRULES": {
 		title: "OMA-ORG-SCR_Rules_and_Procedures: SCR Rules and Procedures", 
 		publisher: "Open Mobile Alliance™",
