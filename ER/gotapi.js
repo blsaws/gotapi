@@ -56,7 +56,7 @@ var respecConfig = {
    // Team Contact.
    wgPatentURI:   ["https://www.openmobilealliance.org"],
 
-   localBiblio:  [
+   localBiblio:  {
 		"SCRRULES": {
 		title: "OMA-ORG-SCR_Rules_and_Procedures: SCR Rules and Procedures", 
 		publisher: "Open Mobile Alliance™",
@@ -87,5 +87,5 @@ var respecConfig = {
 		publisher: "Internet Engineering Task Force (IETF)",
 		href: "http://tools.ietf.org/wg/rtcweb/"
 		}
-	]
+	}
 };
