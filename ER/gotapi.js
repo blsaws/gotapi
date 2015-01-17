@@ -87,4 +87,5 @@ var respecConfig = {
 		publisher: "Internet Engineering Task Force (IETF)",
 		href: "http://tools.ietf.org/wg/rtcweb/"
 		}
-	];
+	]
+};
