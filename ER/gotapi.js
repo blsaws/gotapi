@@ -57,14 +57,34 @@ var respecConfig = {
    wgPatentURI:   ["https://www.openmobilealliance.org"],
 
    localBiblio:  {
-      "wrapi-push": {
-        title: "Web Runtime API - Push",
-        href: "https://www.openmobilealliance.org/releases/WrapiPush.html",
-        authors:  [
-            "Bryan Sullivan"
-        ],
-        status:   "Approved",
-        publisher:  "OMA"
-      }
-   }
-};
+		"SCRRULES": {
+		title: "OMA-ORG-SCR_Rules_and_Procedures: SCR Rules and Procedures", 
+		publisher: "Open Mobile Alliance™",
+		href: "http://www.openmobilealliance.org/"
+		},
+		"OMA-DM": {
+		title: "OMA Device Management V2.0", 
+		publisher: "Open Mobile Alliance™",
+		href: "http://www.openmobilealliance.org/"
+		},
+		"OMNA": {
+		title: "OMA Naming Authority", 
+		publisher: "Open Mobile Alliance™",
+		href: "http://www.openmobilealliance.org/tech/omna.aspx"
+		},
+		"JSON-RPC": {
+		title: "JSON-RPC 2.0 Specification",
+		publisher: "JSON-RPC Working Group",
+		href: "http://www.jsonrpc.org/specification"
+		},
+		"HTTP/2": {
+		title: "Hypertext Transfer Protocol version 2", 
+		publisher: "Internet Engineering Task Force (IETF)",
+		href: "https://tools.ietf.org/html/draft-ietf-httpbis-http2"
+		},
+		"RTCWeb": {
+		title: "Rtcweb", 
+		publisher: "Internet Engineering Task Force (IETF)",
+		href: "http://tools.ietf.org/wg/rtcweb/"
+		}
+	};
