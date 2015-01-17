@@ -87,7 +87,7 @@ var respecConfig = {
 		publisher: "Internet Engineering Task Force (IETF)",
 		href: "https://tools.ietf.org/html/draft-ietf-httpbis-http2"
 		},
-		"RTCWeb": {
+		"Rtcweb": {
 		title: "Rtcweb", 
 		publisher: "Internet Engineering Task Force (IETF)",
 		href: "http://tools.ietf.org/wg/rtcweb/"
