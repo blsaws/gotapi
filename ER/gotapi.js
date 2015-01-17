@@ -62,7 +62,6 @@ var respecConfig = {
 		publilsher: "Open Mobile Alliance™",
 		href: "http://www.openmobilealliance.org/"
 		},
-		{
 		"SCRRULES": {
 		title: "OMA-ORG-SCR_Rules_and_Procedures: SCR Rules and Procedures", 
 		publisher: "Open Mobile Alliance™",
